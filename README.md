@@ -5,8 +5,8 @@ This repository contains my solutions for *Harvard CS50x – Problem Set 1*.
 
 ## Problems Completed
 - hello.c
-- mario.c (less comfortable)
-- cash.c (less comfortable)
+- mario.c(less comfortable)
+- cash.c(less comfortable)
 
 ## Concepts Used
 - C programming
